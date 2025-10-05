@@ -4,10 +4,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ![til](https://github.com/addieljuarez/demoAdMobReactNative/blob/main/demoAd.gif)
 
+# This demo is to correctly run Google Ads banners and internals.
 
 ## Get started
 
-1. create Acount
+1. create Account
 
    ```
    https://admob.google.com/
@@ -38,13 +39,18 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    };
    ```
 
-4. prebuild expo
+4. install dependencies
+
+   ```bash
+   npm install
+
+5. prebuild expo
 
    ```bash
    npx expo prebuild
    ```
 
-5. Start the app
+6. Start the app
 
    ```bash
    npx expo run:ios
