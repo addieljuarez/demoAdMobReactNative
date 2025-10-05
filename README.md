@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ![til](https://github.com/addieljuarez/demoAdMobReactNative/blob/main/demoAd.gif)
 
-# This demo is to correctly run Google Ads banners and internals.
+# This demo is to correctly run Google Ads banners and interstitials
 
 ## Get started
 
